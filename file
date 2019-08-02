@@ -1,0 +1,9 @@
+#include <iostream>
+using nameprace std
+
+int main()
+{
+  cout << "Hello world!";
+  return 0;
+ 
+}
