@@ -1,5 +1,5 @@
 #include <iostream>
-using nameprace std
+using nameprace std;
 
 int main()
 {
